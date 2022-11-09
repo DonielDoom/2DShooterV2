@@ -136,11 +136,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8282131552441171986, guid: 91411278b0dfa9a468f417268eba15a3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.644067
+      value: 6.24
       objectReference: {fileID: 0}
     - target: {fileID: 8282131552441171986, guid: 91411278b0dfa9a468f417268eba15a3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.1471379
+      value: 2.79
       objectReference: {fileID: 0}
     - target: {fileID: 8282131552441171986, guid: 91411278b0dfa9a468f417268eba15a3, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1233,11 +1233,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8282131552441171986, guid: 04a9a4a0f6aa3074ab31e1eea330b8e6, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.26
+      value: 7.9
       objectReference: {fileID: 0}
     - target: {fileID: 8282131552441171986, guid: 04a9a4a0f6aa3074ab31e1eea330b8e6, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.2
+      value: 3.77
       objectReference: {fileID: 0}
     - target: {fileID: 8282131552441171986, guid: 04a9a4a0f6aa3074ab31e1eea330b8e6, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1395,11 +1395,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8282131552441171986, guid: fd821cc36f666d54592388e02f75fcb5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 9.96
+      value: 4.98
       objectReference: {fileID: 0}
     - target: {fileID: 8282131552441171986, guid: fd821cc36f666d54592388e02f75fcb5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.02
+      value: 4.51
       objectReference: {fileID: 0}
     - target: {fileID: 8282131552441171986, guid: fd821cc36f666d54592388e02f75fcb5, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1891,10 +1891,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2258072067543880998, guid: b5079f2d37184ac4f924b7002f79c3de, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Level2
-      objectReference: {fileID: 0}
     - target: {fileID: 2427831383053409461, guid: b5079f2d37184ac4f924b7002f79c3de, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
